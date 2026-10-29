@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Installation and usage guide
+    url: https://www.whatever-industries.com/p/script-it.html#help
+    about: Check the guide for installation steps, supported workflows and troubleshooting.
+  - name: Private support
+    url: mailto:whatev.indus@gmail.com
+    about: Contact us about private project details or activation issues.

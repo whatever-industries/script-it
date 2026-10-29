@@ -1,0 +1,55 @@
+name: Bug report
+description: Report a reproducible problem in Script It!
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "This report is public. Omit private scripts, media, project files, payment details and activation credentials."
+  - type: input
+    id: version
+    attributes:
+      label: Script It! version
+      placeholder: "For example, 0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: premiere
+    attributes:
+      label: Premiere Pro version
+      placeholder: "Include the full version and whether it is a beta"
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Operating system and processor
+      placeholder: "For example, macOS 27 on Apple Silicon or Windows 11 x64"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the mode and relevant settings; describe media without uploading it.
+      placeholder: "1. Open…
+2. Select…
+3. Click…"
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual result
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Error details (optional)
+      description: Use Copy error details in Script It! if available. Review and remove private information before posting.
+      render: text
+  - type: textarea
+    id: frequency
+    attributes:
+      label: Frequency and recovery
+      description: Does it happen every time? Does reconnecting or reopening the project help?
