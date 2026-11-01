@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Installation and usage guide
-    url: https://www.whatever-industries.com/p/script-it.html#help
+    url: https://www.workflowdept.com/p/script-it-premiere-guide.html
     about: Check the guide for installation steps, supported workflows and troubleshooting.
   - name: Private support
     url: https://github.com/whatever-industries/script-it/blob/main/SUPPORT.md
