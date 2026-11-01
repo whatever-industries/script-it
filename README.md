@@ -2,7 +2,7 @@
 
 Script It! is a lined-script tool for Adobe Premiere Pro. This repository is the public home for installer releases and bug reports; the application source code is private and proprietary.
 
-**Open Beta:** [Download Script-It.ccx for Mac and Windows](https://github.com/whatever-industries/script-it/releases/latest/download/Script-It.ccx). Manual mode is free; optional registration unlocks Auto and additional editing tools.
+**Open Beta:** [Download Script-It_for_PremierePro_v0.1.30.ccx for Mac and Windows](https://github.com/whatever-industries/script-it/releases/download/v0.1.30/Script-It_for_PremierePro_v0.1.30.ccx). Manual mode is free; optional registration unlocks Auto and additional editing tools.
 
 [Product details](https://www.workflowdept.com/p/script-it.html) · [Installation and guide](https://www.workflowdept.com/p/script-it-premiere-guide.html#installation) · [Report a bug](https://github.com/whatever-industries/script-it/issues/new/choose)
 
@@ -20,6 +20,6 @@ Installation uses Adobe Creative Cloud's standard installer. Keep operating-syst
 
 ## Release files
 
-Releases contain `Script-It.ccx`, `SHA256SUMS.txt` and release notes. This repository does not automatically publish builds from the private source repository. A release will only be published after testing and approval.
+Installers use `Script-It_for_PremierePro_v[version].ccx`, with `SHA256SUMS.txt` and release notes. The byte-identical `Script-It.ccx` alias preserves existing latest-download links. This repository does not automatically publish builds from the private source repository. A release will only be published after testing and approval.
 
 Adobe product names are trademarks of their respective owners. Script It! is independently developed and is not affiliated with or endorsed by Adobe.
