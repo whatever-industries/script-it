@@ -1,25 +1,9 @@
-# Script It! — downloads and bug reports
+# Downloads
 
-Script It! is a lined-script tool for Adobe Premiere Pro. This repository is the public home for installer releases and bug reports; the application source code is private and proprietary.
+[Download the latest installer](https://github.com/whatever-industries/script-it/releases/latest/download/Script-It.ccx) · [Installation help](https://www.workflowdept.com/p/script-it-premiere-guide.html#installation) · [Report a problem](https://github.com/whatever-industries/script-it/issues/new/choose)
 
-**Open Beta:** [Download Script-It_for_PremierePro_v0.1.39.ccx for Mac and Windows](https://github.com/whatever-industries/script-it/releases/download/v0.1.39/Script-It_for_PremierePro_v0.1.39.ccx). Manual mode is free; optional registration unlocks Auto and additional editing tools.
+This repository contains installer releases and support documents. Application source is private and proprietary. Release notes record requirements, tested platforms and known limitations. Keep operating-system security protections enabled.
 
-[Product details](https://www.workflowdept.com/p/script-it.html) · [Installation and guide](https://www.workflowdept.com/p/script-it-premiere-guide.html#installation) · [Report a bug](https://github.com/whatever-industries/script-it/issues/new/choose)
+For a bug report, include the installed version, host version, operating system and reproduction steps. Review copied diagnostic details for private information first. Issues and attachments are public; do not upload scripts, footage, projects, activation credentials, payment information or unredacted personal paths. Private support: **workflowdept@gmail.com**.
 
-## Reporting a problem
-
-Please include the Script It! version, Premiere version, operating system and steps that reproduce the issue. If the plugin offers **Copy error details**, paste the report after checking it for private information.
-
-Issues and attachments are public. Do not upload private scripts, client footage, project files, payment information, activation credentials or unredacted personal paths. Describe the media type instead, or contact **workflowdept@gmail.com** if a private example is needed.
-
-## Installer status
-
-The single `.ccx` contains builds for Mac Apple Silicon, Mac Intel and Windows x64. Build availability does not establish Premiere runtime compatibility. Tested platforms and known limitations will be listed in each release's notes. Premiere Pro 26.5 or later and Creative Cloud desktop are required; Premiere 27 compatibility is not yet qualified.
-
-Installation uses Adobe Creative Cloud's standard installer. Keep operating-system security protections enabled. The product page contains installation guidance and troubleshooting.
-
-## Release files
-
-Installers use `Script-It_for_PremierePro_v[version].ccx`, with `SHA256SUMS.txt` and release notes. The byte-identical `Script-It.ccx` alias preserves existing latest-download links. This repository does not automatically publish builds from the private source repository. A release will only be published after testing and approval.
-
-Adobe product names are trademarks of their respective owners. Script It! is independently developed and is not affiliated with or endorsed by Adobe.
+Each published release includes the versioned installer, a byte-identical `Script-It.ccx` alias and `SHA256SUMS.txt`. The download link follows the release designated **Latest**. Automated “Source code” archives contain only this repository's support files.
